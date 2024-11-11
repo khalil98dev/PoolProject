@@ -1,0 +1,12 @@
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.csproj.AssemblyReference.cache
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.ctrlPoolTable.resources
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.Form1.resources
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.frmConfig.resources
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.Properties.Resources.resources
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.csproj.GenerateResource.cache
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.csproj.CoreCompileInputs.cache
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\bin\Debug\PoolProject.exe.config
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\bin\Debug\PoolProject.exe
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\bin\Debug\PoolProject.pdb
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.exe
+E:\khalilProjects\C# Projects\c#\Course 20\PoolProject\PoolProject\obj\Debug\PoolProject.pdb
